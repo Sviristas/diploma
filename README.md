@@ -77,6 +77,9 @@
 - Анализ рисков и рекомендации по их устранению.
 - [Пользовательские интерфейсы (Figma)](https://www.figma.com/design/7pm3idBs74thnCwaDZmJ0k/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=0-1&p=f&t=ONodTd4t4uJjTJd3-0)
 - [Карта пользовательских историй MVP (Miro)](https://drive.google.com/file/d/1PsZOUWmlOA42AAQTnoZ4WbikkXoXLOHW/view?usp=sharing)
+- [ПМИ](https://docs.google.com/document/d/1GgCjplTPHjCwNudqyRjjta6ZKFQMrxLWgVlFKs1jGIs/edit?usp=drivesdk)
+- [Словарь данных](https://docs.google.com/document/d/1YLDS6-kON14pUFNNvStRM1tdmM_4UkHp/edit?pli=1)
+- [Диаграммы Draw.io](https://app.diagrams.net/?splash=0#G13wiSXUheVZC8_m9O0783W7CdgSTPZuyq#%7B%22pageId%22%3A%22cGkIok73xvZyzGzQiZp7%22%7D)
 
 ### Планы по развитию
 - Расширение функциональности приложения (например, интеграция с IoT-платформами, такими как Home Assistant).
